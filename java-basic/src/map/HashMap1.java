@@ -25,7 +25,7 @@ public class HashMap1 {
             hm.put("늑대","루이스");
         }
         //어쨋든 맵 타입은 꼭 지정하자 ** <- 가끔 실수하는 것
-
+        //LinkedHashmap -> 순서있는 HashMap , 속도 더 느림
 
     }
 
